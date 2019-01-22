@@ -1,5 +1,5 @@
 # learning-experience
-Test repository for your notebooks on machine learning.
+This is a test repository for your notebooks on machine learning.
 
 To run these on your own laptop, we strongly recommend installing Python 3 with anaconda. This is the easiest way to install the various non-standard packages you'll need to run machine learning algorithms.
 
